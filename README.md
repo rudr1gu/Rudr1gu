@@ -28,3 +28,5 @@
 </div> <br>
 
 Atualmente, estou buscando minha primeira oportunidade de estágio na área de TI, enquanto curso o Segundo Semestre em Técnico em Desenvolvimento de Sistemas na Etec (Escola Técnica Estadual) da Zona Leste. Apaixonado por resolver problemas através da lógica de programação, estou focado no aprimoramento de minhas habilidades em POO em Java e estou sempre em busca de desafios que me permitam expandir meu conhecimento técnico.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudr1gu)](https://github.com/Rudr1gu)
