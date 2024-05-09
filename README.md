@@ -24,7 +24,8 @@ Sou Estudante de Desenvolvimento de Sistemas.
 
 ![Rudr1gu GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudr1gu&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudr1gu)](https://github.com/Rudr1gu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudr1gu&layout=compact&langs_count=16&theme=radical)](https://github.com/Rudr1gu)
+
 
 **Redes Sociais:**
 
