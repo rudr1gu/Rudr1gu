@@ -24,5 +24,8 @@ I'm searching for my first IT internship while I'm a second-semester student at 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudr1gu) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudr1gu)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rudr1gu)
 
-
-
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rudr1gu}/count.svg" /></p> 
+  <br>
+</div>
