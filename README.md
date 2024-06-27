@@ -1,8 +1,5 @@
 <p align="center">Hi, I'm <b>Rodrigo Santos</b></p>
 
-
-I'm a System Development Student.
-
 **About:**
 
 I'm searching for my first IT internship while I'm a second-semester student at Etec (State Technical School) studying system development technician. I'm concentrating on honing my backend abilities and applying logic to solve issues, and I'm constantly searching for challenges that will advance my technical understanding. [Linkedin](http://linkedin.com/in/rudr1gu)
@@ -12,7 +9,7 @@ I'm searching for my first IT internship while I'm a second-semester student at 
 
 **Skill:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,php,git,py,ts,mysql,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,php,py,ts,cpp,react,angular,mysql,git)](https://skillicons.dev)
 
 <hr>
 
