@@ -9,7 +9,7 @@ I'm searching for my first IT internship while I'm a second-semester student at 
 
 **Skill:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,php,py,ts,cpp,react,angular,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,php,py,ts,cpp,react,angular,spring,maven,mysql,git)](https://skillicons.dev)
 
 <hr>
 
