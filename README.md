@@ -21,6 +21,8 @@ I'm searching for my first IT internship while I'm a second-semester student at 
   <img width="5">
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cpp logo"  />
   <img width="5" />
+   <img src="https://skillicons.dev/icons?i=python" height="35" alt="python logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
