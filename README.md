@@ -1,9 +1,8 @@
-<p align="center">Hi, I'm <b>Rodrigo Santos</b></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Rudr1gu!;I+studying+system+development)](https://git.io/typing-svg)
 
 **About:**
 
-I'm searching for my first IT internship while I'm a second-semester student at Etec (State Technical School) studying system development technician. I'm concentrating on honing my backend abilities and applying logic to solve issues, and I'm constantly searching for challenges that will advance my technical understanding. [Linkedin](http://linkedin.com/in/rudr1gu)
-
+I'm studying system development and looking for my first stage in web development. I am focused on improving my fullstack skills and applying logic to problem solving, and I am always looking for challenges that improve my technical understanding.
 <hr>
 
 
