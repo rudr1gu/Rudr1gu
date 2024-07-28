@@ -1,49 +1,69 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Rudr1gu!;I+studying+system+development)](https://git.io/typing-svg)
 
-**About:**
+```java
+public class Main {
+    public static void main(String[] args) {
+        
+        Stundent rudr1gu = new Stundent('Rodrigo', 28, 'Brazil');
 
-I'm studying system development and looking for my first stage in web development. I am focused on improving my fullstack skills and applying logic to problem solving, and I am always looking for challenges that improve my technical understanding.
+        rudr1gu.setCourse('System Development');
+        rudr1gu.playGuitar = true;
+        rudr1gu.setDreamSize('Big');
+        rudr1gu.speak(); //Hello, my name is Rodrigo, I'm 28 years old and I'm from Brazil
+
+        rudr1gu.about(); 
+        //I'm studying system development and looking for my first stage in web development.
+        //I am focused on improving my fullstack skills and applying logic to problem solving,
+        //and I am always looking for challenges that improve my technical understanding.
+    }
+}
+```
 <hr>
 
-
-**Skill:**
+>**Skill:**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="5">
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cpp logo"  />
-  <img width="5" />
-   <img src="https://skillicons.dev/icons?i=python" height="35" alt="python logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=maven" height="35" alt="apachemaven logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+    <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+    <img width="5">
+    <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cpp logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=python" height="35" alt="python logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="react logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
+    <img width="5" />
+    <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+    <img width="5">
+    <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=maven" height="35" alt="apachemaven logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="eclipse logo"  />      
 </div>
-
-###
 
 ###
 
@@ -52,7 +72,7 @@ I'm studying system development and looking for my first stage in web developmen
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=rudr1gu&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rudr1gu&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="250" alt="trophy graph"  />
 </div>
 
 ###
