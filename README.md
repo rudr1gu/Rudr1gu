@@ -7,7 +7,7 @@ public class Main {
         Stundent rudr1gu = new Stundent('Rodrigo', 28, 'Brazil');
 
         rudr1gu.setCourse('System Development');
-        rudr1gu.setEmail('rodrigo.santos.ii@hotmail.com')
+        rudr1gu.setEmail('rodrigo.santos.ii@hotmail.com');
         rudr1gu.setDreamSize('Big');
         rudr1gu.speak();
         //Hello, my name is Rodrigo, I'm 28 years old and I'm from Brazil
