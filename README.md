@@ -7,14 +7,10 @@ public class Main {
         Stundent rudr1gu = new Stundent('Rodrigo', 28, 'Brazil');
 
         rudr1gu.setCourse('System Development');
-        rudr1gu.playGuitar = true;
+        rudr1gu.setEmail('rodrigo.santos.ii@hotmail.com')
         rudr1gu.setDreamSize('Big');
-        rudr1gu.speak(); //Hello, my name is Rodrigo, I'm 28 years old and I'm from Brazil
-
-        rudr1gu.about(); 
-        //I'm studying system development and looking for my first stage in web development.
-        //I am focused on improving my fullstack skills and applying logic to problem solving,
-        //and I am always looking for challenges that improve my technical understanding.
+        rudr1gu.speak();
+        //Hello, my name is Rodrigo, I'm 28 years old and I'm from Brazil
     }
 }
 ```
