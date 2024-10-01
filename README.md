@@ -17,10 +17,12 @@ public class Main {
 I am currently learning and developing with a diverse set of technologies that empower me to build dynamic and robust applications. My expertise includes:
 
 ### Backend
-![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java)
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![php](https://img.shields.io/badge/-PHP-777BB3?style=flat-square&logo=php&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 ![nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodejs&logoColor=3C873A)
+
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,7 +35,7 @@ I am currently learning and developing with a diverse set of technologies that e
 ![React](https://img.shields.io/badge/-React%20JS-333333?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-2296F3?style=flat-square&logo=adonisjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat-square&logo=express&logoColor=white)
 
@@ -45,9 +47,12 @@ I am currently learning and developing with a diverse set of technologies that e
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F57C00?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Cloud
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=azure&logoColor=white)
+
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -76,3 +81,11 @@ I am currently learning and developing with a diverse set of technologies that e
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudr1gu) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudr1gu)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rudr1gu)
+
+<p align="center">
+  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudr1gu&label=PAGE+VIEWS&style=for-the-badge&color=blueviolet" alt="PAGE VIEWS">
+</p>
