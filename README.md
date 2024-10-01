@@ -13,6 +13,15 @@ public class Main {
 }
 ```
 
+<details>
+    <summary>GitHub Statics</summary>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+      <img src="https://github-profile-trophy.vercel.app?username=rudr1gu&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=5"  alt="trophy graph"  />
+    </div>
+</details>
+
 # ⚡ Technologies
 I am currently learning and developing with a diverse set of technologies that empower me to build dynamic and robust applications. My expertise includes:
 
@@ -21,7 +30,7 @@ I am currently learning and developing with a diverse set of technologies that e
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![php](https://img.shields.io/badge/-PHP-777BB3?style=flat-square&logo=php&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodejs&logoColor=3C873A)
+![Node.js](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
 ### Frontend
@@ -50,7 +59,7 @@ I am currently learning and developing with a diverse set of technologies that e
 ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Cloud
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft&logoColor=white)
 
 
 
@@ -59,28 +68,21 @@ I am currently learning and developing with a diverse set of technologies that e
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### IDEs
-![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-007C92?style=flat-square&logo=apache-netbeans&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-
-
-
-
-<hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=rudr1gu&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=5"  alt="trophy graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+</p>
 
 **Redes Sociais:**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudr1gu) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rudr1gu)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rudr1gu)
+[![Instagram](https://img.shields.io/badge/@rudr1gu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rudr1gu)
+[![YouTube](https://img.shields.io/badge/Rudr1gu-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rudr1gu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudr1gu)
+
 
 <p align="center">
   <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
