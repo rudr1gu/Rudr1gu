@@ -47,6 +47,8 @@ I am currently learning and developing with a diverse set of technologies that e
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-2296F3?style=flat-square&logo=adonisjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B2?style=flat-square&logo=kotlin&logoColor=white)
