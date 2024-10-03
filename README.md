@@ -14,15 +14,15 @@ public class Main {
 ```
 
 <details>
-    <summary>GitHub Statics</summary>
+    <summary>Github Stats 📊</summary>
     <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
       <img src="https://github-profile-trophy.vercel.app?username=rudr1gu&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=5"  alt="trophy graph"  />
     </div>
 </details>
-
-# ⚡ Technologies
+<details>
+    <summary>Technologies 👨🏻‍💻</summary>
 I am currently learning and developing with a diverse set of technologies that empower me to build dynamic and robust applications. My expertise includes:
 
 ### Backend
@@ -74,22 +74,18 @@ I am currently learning and developing with a diverse set of technologies that e
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+</details>
 
-<p align="center">
-  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</p>
-
-**Redes Sociais:**
+<details>
+    <summary>
+        Redes Sociais 📱      
+    </summary>
 
 [![Instagram](https://img.shields.io/badge/@rudr1gu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rudr1gu)
 [![YouTube](https://img.shields.io/badge/Rudr1gu-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rudr1gu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudr1gu)
-
+</details>
 
 <p align="center">
   <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudr1gu&label=PAGE+VIEWS&style=for-the-badge&color=blueviolet" alt="PAGE VIEWS">
 </p>
