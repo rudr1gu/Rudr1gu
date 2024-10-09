@@ -85,7 +85,3 @@ I am currently learning and developing with a diverse set of technologies that e
 [![YouTube](https://img.shields.io/badge/Rudr1gu-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rudr1gu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudr1gu)
 </details>
-
-<p align="center">
-  <img src="https://github.com/harilvfs/assets/blob/main/github-gifs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</p>
