@@ -84,7 +84,7 @@ I am currently learning and developing with a diverse set of technologies that e
 
 <details>
     <summary>
-        Media Social 📱      
+        Social Media 📱      
     </summary>
 
 [![Instagram](https://img.shields.io/badge/@rudr1gu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rudr1gu)
