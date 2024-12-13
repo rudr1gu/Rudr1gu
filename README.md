@@ -17,7 +17,7 @@ public class Main {
 
 <div align="center" style="margin:20px 0 ;">
   <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&show_icons=true&theme=dark&hide_border=false&locale=en&card_width=300&count_private=true" alt="GitHub Stats"" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&layout=compact&langs_count=6&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&layout=compact&langs_count=10&theme=dark&hide_border=false" alt="Top Languages" />
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=rudr1gu&theme=onedark&column=8&margin-w=15&margin-h=15" alt="Trophies" /> -->
 </div>
 <br>
