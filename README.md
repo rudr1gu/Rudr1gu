@@ -13,81 +13,89 @@ public class Main {
 }
 ```
 
-<details>
-    <summary>Github Stats 📊</summary>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=10&theme=dark&hide_border=false&order=3" height="180" alt="languages graph"  />
-      <img src="https://github-profile-trophy.vercel.app?username=rudr1gu&theme=onedark&column=5&margin-w=10&margin-h=10&no-bg=false&no-frame=false" alt="trophy graph" />
-    </div>
-</details>
-<details>
-    <summary>Technologies 👨🏻‍💻</summary>
-I am currently learning and developing with a diverse set of technologies that empower me to build dynamic and robust applications. My expertise includes:
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![php](https://img.shields.io/badge/-PHP-777BB3?style=flat-square&logo=php&logoColor=white)
-![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![Node.js](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
-![c++](https://img.shields.io/badge/-C++-0089D6?style=flat-square&logo=cplusplus)
 
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+<div align="center" style="margin:20px 0 ;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&show_icons=true&theme=dark&hide_border=false&locale=en&card_width=300&count_private=true" alt="GitHub Stats"" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&layout=compact&langs_count=6&theme=dark&hide_border=false" alt="Top Languages" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=rudr1gu&theme=onedark&column=8&margin-w=15&margin-h=15" alt="Trophies" /> -->
+</div>
+<br>
 
-### Frameworks and Libraries
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React%20JS-333333?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-2296F3?style=flat-square&logo=adonisjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-444444?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-
-### Mobile
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B2?style=flat-square&logo=kotlin&logoColor=white)
-![PWA](https://img.shields.io/badge/-PWA-7F52B2?style=flat-square&logo=pwa&logoColor=white)
-
-### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-F57C00?style=flat-square&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-
-### Cloud
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
-
-
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=postman)
-![TinkerCad](https://img.shields.io/badge/-TinkerCad-181717?style=flat-square&logo=tinkercad)
-
-### IDEs
-![Apache NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-</details>
-
-<details>
-    <summary>
-        Social Media 📱      
-    </summary>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Micro+5&size=50&duration=4000&pause=1000&color=1D89E4&center=true&width=435&lines=Skills" alt="Typing SVG" />
+  </a>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Backend</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Frontend</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Frameworks and Libraries</kbd>
+      <br><br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Mobile</kbd>
+      <br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Databases</kbd>
+      <br><br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Cloud</kbd>
+      <br><br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Tools</kbd>
+      <br><br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
+    </kbd>
+    <kbd>
+      <kbd>IDEs</kbd>
+      <br><br>
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+          <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+    </kbd>
+  </p>
+</div>
 
 [![Instagram](https://img.shields.io/badge/@rudr1gu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rudr1gu)
 [![YouTube](https://img.shields.io/badge/Rudr1gu-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@rudr1gu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudr1gu)
-</details>
+
