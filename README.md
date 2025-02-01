@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Rudr1gu!;I+am+fullstack+developer)](https://git.io/typing-svg)
 
 <div align="center" class="centered-div">
-    <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&show_icons=true&theme=dark&hide_border=false&locale=en&card_width=300&count_private=true" alt="GitHub Stats" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&show_icons=true&theme=dark&hide_border=false&locale=en&card_width=300&count_private=false" alt="GitHub Stats" height="150px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&layout=compact&langs_count=10&theme=dark&hide_border=false" alt="Top Languages" height="150px"/>
     <br/>
     <img src="https://github-profile-trophy.vercel.app/?username=rudr1gu&theme=onedark&column=8&margin-w=15&margin-h=15&row=1" alt="Trophies" height="100px" />
