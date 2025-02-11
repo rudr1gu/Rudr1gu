@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Rudr1gu!;I+am+fullstack+developer)](https://git.io/typing-svg)
 
-<div align="center" class="centered-div">
-    <img src="https://github-readme-stats.vercel.app/api?username=rudr1gu&show_icons=true&theme=dark&hide_border=false&locale=en&card_width=300&count_private=true" alt="GitHub Stats" height="150px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&layout=compact&langs_count=10&theme=dark&hide_border=false" alt="Top Languages" height="150px"/>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=rudr1gu&theme=onedark&column=8&margin-w=15&margin-h=15&row=1" alt="Trophies" height="100px" />
+<div align="center">
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudr1gu&show_icons=true&theme=dark&hide_border=false&locale=pt-br&card_width=350&count_private=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rudr1gu&layout=compact&langs_count=10&theme=dark&hide_border=false&card_width=350) |
+|---|---|
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rudr1gu&theme=onedark&column=4&margin-w=15&margin-h=20&row=2)
+
 </div>
 
-<br />
-<br />
-<div align="center" height="100px">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=2000&pause=2000&color=1D89E4&center=true&width=435&lines=Skill" alt="Typing SVG" />
+<div align="center" height="200px"  >
+    <br/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3000&pause=5000&color=1D89E4&center=true&width=600&lines=Skill" alt="Typing SVG" />
 </div>
 
 <div align="left">
@@ -81,12 +82,12 @@
 
 <div align="center">
     <a href="https://instagram.com/rudr1gu">
-        <img src="https://img.shields.io/badge/@rudr1gu-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="100px"  height="27px"  />
     </a>
-    <a href="https://youtube.com/@rudr1gu">
-        <img src="https://img.shields.io/badge/Rudr1gu-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+    <a href="https://rudr1gu.vercel.app">
+        <img src="https://img.shields.io/badge/Portifolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="YouTube" width="100px" height="27px"  />
     </a>
     <a href="https://linkedin.com/in/rudr1gu">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" height="27px"  />
     </a>
 </div>
